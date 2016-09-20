@@ -5,7 +5,7 @@ date:   2016-09-20 14:55:00 +0000
 categories: handicapped-users competitors project2
 ---
 
-# CameraMouse -  A CameraMouse Competitor 
+# Camera Mouse -  A CameraMouse Competitor 
 
 It has the same name as my software. That was not deliberate might be that I have seen this software before and my subconscious made me name my software the same.
 
