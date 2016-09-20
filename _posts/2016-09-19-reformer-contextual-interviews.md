@@ -14,4 +14,10 @@ After introducing Reformers core concepts, we told the student the purpose of in
 The transition period between the interviews was short and the student began solving one of his homework assignment. The assignment required him to read an academic paper online. While the student worked on the assignment, he described the tools and techniques he used to both gain better understanding of the written text and how he was able to solve the task at hand faster. We observed his process carefully, asked questions without interrupting his workflow and took down notes. The student finished the assignment in 45 minutes and we continued the interview by asking him about the workflow, if it differs by assignments and if so how. The student then described to us how he solved previous assignments in different classes. We then started discussing the Reformer project again and the student gave us feedback about the design. After our discussion we started wrapping up the interview by recapping the information we had gathered and thanking the student for the interview. 
 
 ###Interview 2
-...
+I spoke to a friend who is is studying graphical and game design. We had to chat through Skype because the interviewee is currently studying in England.
+Because this couldn’t be a contextual interview I had a basic list of questions I wanted to ask. The questions were designed to be open and spark a conversation so we could talk about the issues and about his work in a nonlinear way. 
+The questions were mainly about him as a person to get a good feel of the user with a few questions directly about the problems that he faces.
+When the Skype chat started we talked a little bit about the project and the idea we were working on and after a little bit of chatting I began to ask the questions from the list.
+I wrote down a few interesting points I could catch from the answer and would make a followup question depending on the points I wrote down. Finally I would clarify how I understood the answer he gave me in on sentence and ask him to clarify if I got something wrong.
+
+###Interview 3
